@@ -1,0 +1,1 @@
+""" Split up the data into usable dictionaries. The brain of the program, if you will. """
